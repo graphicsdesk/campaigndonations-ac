@@ -7,12 +7,182 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Micah Lasher and Jordan Wright, respective winners of the New York State Assembly District 69 and District 70 Democratic primary races, received the most campaign donations at or above $1,000 among their competitors in their respective campaigns, according to a Spectator analysis."
+          },
+          {
+            "type": "text",
+            "value": "The candidates with the second highest number of votes in both districts, Eli Northrup in District 69 and Maria Ordoñez in District 70, received significantly fewer donations."
+          },
+          {
+            "type": "text",
+            "value": "After winning the primaries, Wright is heavily favored in his race against Republican candidate Seson Adams, while Lasher will not face Republican opposition in the general election."
+          },
+          {
+            "type": "text",
+            "value": "Election day is on Nov. 5, and <a href=\"https://www.columbiaspectator.com/city-news/2024/10/17/heres-where-to-vote-in-west-harlem-for-the-general-election/\">19 poll sites in </a>Community Board 9 will be open from 6 a.m. to 9 p.m."
+          },
+          {
+            "type": "text",
+            "value": "Lasher received a total of 163 donations that were $1,000 or above, compared to Northrup’s 42. Most of Lasher’s donations were from individual donors, and 11 came from political committees and PACs. In total, Lasher received $470,389.50 in donations."
+          },
+          {
+            "type": "text",
+            "value": "Wright received 72 donations of $1,000 or more, compared to Ordoñez’s seven. Eighteen of Wright’s donations came from political committees and PACs. The District 70 primary winner received $248,217.30 in total."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "donations.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Lasher received political committee and PAC donations at or above $1,000 from the following:"
+          },
+          {
+            "type": "text",
+            "value": "New Yorkers For Garodnick donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "1199SEIU-NYS. donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "Vote-Cope donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "Manhattan Beer Distributors LLC NYS PAC donated $2,000"
+          },
+          {
+            "type": "text",
+            "value": "Lawpac donated $2,000"
+          },
+          {
+            "type": "text",
+            "value": "Property Tax Fairness PAC donated $2,000"
+          },
+          {
+            "type": "text",
+            "value": "Stringer Committee donated $2,000"
+          },
+          {
+            "type": "text",
+            "value": "LAWPAC of New York donated $1,000"
+          },
+          {
+            "type": "text",
+            "value": "Cwa District One PAC donated $1,500"
+          },
+          {
+            "type": "text",
+            "value": "Mason Tenders District Council PAC donated $1,000"
+          },
+          {
+            "type": "text",
+            "value": "BIECA PAC, INC. donated $1,000"
+          },
+          {
+            "type": "text",
+            "value": "Lasher’s biggest donor was 461 Central Park West Co., LLC, a corporation that donated $5,000."
+          },
+          {
+            "type": "text",
+            "value": "Wright received political committee and PAC donations at or above $1,000 from the following:"
+          },
+          {
+            "type": "text",
+            "value": "1199SEIU-NYS donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "Empire Dental PAC donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "Great Public School PAC donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "LAWPAC of New York donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "NY Hotel Trades Council Committee on Politics donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "Solidarity PAC INC. donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "StudentsFirstNY donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "Voice of Teachers for Education donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "PS PAC donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "Rsa-PAC donated $3,000"
+          },
+          {
+            "type": "text",
+            "value": "NYSNA-PAC donated $2,000"
+          },
+          {
+            "type": "text",
+            "value": "District Council 37 PAC donated $1,500 twice"
+          },
+          {
+            "type": "text",
+            "value": "Friends Of Michaelle Solages donated $1,500"
+          },
+          {
+            "type": "text",
+            "value": "Charles Fall For NY donated $1,000"
+          },
+          {
+            "type": "text",
+            "value": "Partnership For NYC PAC donated $1,000"
+          },
+          {
+            "type": "text",
+            "value": "Wright’s biggest donation was $3,000."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Isha Banerjee can be contacted at </i><a href=\"mailto:isha.banerjee@columbiaspectator.com\"><i>isha.banerjee@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/ishabanerjee20\"><i>@ishabanerjee20</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Alison Chiu can be contacted at </i><a href=\"mailto:alison.chiu@columbiaspectator.com\"><i>alison.chiu@columbiaspectator.com</i></a><i>.  Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Micah Lasher, Jordan Wright receive most donations at or above $1,000 in state assembly District 69 and 70 races",
+        "dek": "Lasher received 163 donations at or above $1,000 and Wright received 72",
+        "date": "November 4, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/isha-banerjee/10/\">Isha Banerjee</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/alison-chiu/\">Alison Chiu</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7C2XUFTZUNH67LZOAFSUZX5I4Y.jpg",
+        "cover_caption": "<a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">A</a><a href=\"https://www.columbiaspectator.com/contributors/anna-fedorova/\">nna Fedorova</a>  / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1RpjtHkOKU-7K1SryiXZeQABSW72_fB8oliAVyzw0FPw/edit?usp=sharing"
       }
     }
   }
